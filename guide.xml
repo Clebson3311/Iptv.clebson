@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <icon src="../canais/chilevision.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+    <icon src="../canais/1583088570.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">DISCOVERY CHANNEL</display-name>
+    <icon src="../canais/1613947586.gif|../canais/1592302022.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
